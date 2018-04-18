@@ -17,7 +17,11 @@ end
 
 def monopoly_with_second_tier
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
-
+	monopoly = {
+		:railroads => {
+			:pieces => "4"
+	}
+	}
 end
 
 def monopoly_with_third_tier
@@ -31,6 +35,6 @@ def monopoly_with_fourth_tier
 end
 
 =begin
-building a multidimensional monopoly hash adding a key-value pair to the top level of the monopoly hash #monopoly adds a key-value pair to the monopoly hash. The key should be :railroads and
-the value should be an empty hash
+# building a multidimensional monopoly hash adding key-value pairs to the second level of the monopoly hash that we started building in the #monopoly method #monopoly_with_second_tier sets the
+first key of the :railroads hash to a symbol, :pieces, whose value is the integer 4
 =end
