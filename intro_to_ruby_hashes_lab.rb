@@ -55,7 +55,9 @@ def monopoly_with_fourth_tier
 								:b_and_o_railroad => {
 									"mortgage_value" => "$400"
 								},
-								:shortline => {}
+								:shortline => {
+									"mortgage_value" => "$800"
+								}
 							},
 							:rent_in_dollars => {
 								:one_piece_owned => 25,
@@ -69,6 +71,6 @@ def monopoly_with_fourth_tier
 end
 
 =begin
-building a multidimensional monopoly hash fourth level of monopoly hash #monopoly_with_fourth_tier sets the 1st key of the :b_and_o_railroad hash to a string, 'mortgage_value', whose value i
-s '$400'
+building a multidimensional monopoly hash fourth level of monopoly hash #monopoly_with_fourth_tier sets the 1st key of the :shortline hash to a string, `mortgage_value`, whose value is '$800
+'
 =end
