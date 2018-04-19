@@ -65,6 +65,6 @@ def monopoly_with_fourth_tier
 end
 
 =begin
-building a multidimensional monopoly hash fourth level of monopoly hash #monopoly_with_fourth_tier sets the 1st key of the :reading_railroad hash to a string, 'mortgage_value', whose value i
-s '$100'
+building a multidimensional monopoly hash fourth level of monopoly hash #monopoly_with_fourth_tier sets the 1st key of the :pennsylvania_railroad hash to a string, 'mortgage_value', whose va
+lue is '$200'
 =end
