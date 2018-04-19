@@ -34,5 +34,5 @@ end
 
 =begin
 building a multidimensional monopoly hash adding key-value pairs to the second level of the monopoly hash that we started building in the #monopoly method #monopoly_with_second_tier sets the
-second key of the :railroads hash to a symbol, :names, whose value is an empty hash
+third key of the :railroads hash to a symbol, :rent_in_dollars, whose value is an empty hash
 =end
