@@ -42,5 +42,5 @@ end
 
 =begin
 building a multidimensional monopoly hash adding key-value pairs to the third level of the monopoly hash that we continued building in the #monopoly_with_second_tier method #monopoly_with_thi
-rd_tier sets the 3rd key of the :rent_in_dollars hash to a symbol, :three_pieces_owned, whose value is the integer 100
+rd_tier sets the 4th key of the :rent_in_dollars hash to a symbol, :four_pieces_owned, whose value is the integer 200
 =end
