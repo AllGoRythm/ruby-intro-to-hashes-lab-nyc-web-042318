@@ -46,6 +46,6 @@ def monopoly_with_fourth_tier
 end
 
 =begin
-building a multidimensional monopoly hash adding key-value pairs to the third level of the monopoly hash that we continued building in the #monopoly_with_second_tier method #monopoly_with_thi
-rd_tier sets the 2nd key of the :names hash to a symbol, :pennsylvania_railroad, whose value is an empty hash
+building a multidimensional monopoly hash adding key-value pairs to the third level of the monopoly hash that we continued building in the #monopoly_with_second_tier method #monopoly_with_th
+ird_tier sets the 3rd key of the :names hash to a symbol, :b_and_o_railroad, whose value is an empty hash
 =end
